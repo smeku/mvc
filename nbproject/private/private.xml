@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/TeFilmy/models/video_model.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/TeFilmy/controllers/error.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/TeFilmy/controllers/login.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/TeFilmy/public/css/style.css</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/TeFilmy/views/footer.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/TeFilmy/controllers/video.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/TeFilmy/views/login/index.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/TeFilmy/libs/Bootstrap.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/TeFilmy/views/video/index.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/TeFilmy/controllers/index.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/TeFilmy/views/kontakt/index.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/TeFilmy/views/header.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/TeFilmy/controllers/kontakt.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/TeFilmy/models/login_model.php</file>
+        </group>
+    </open-files>
+</project-private>
