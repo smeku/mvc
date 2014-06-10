@@ -13,8 +13,14 @@ body {
 
 /* Finesse the page header spacing */
 .page-header {
+  margin-top: 0px;   
   margin-bottom: 30px;
 }
+
+.page-header h2 {
+  margin: 0px; 
+}
+
 .page-header .lead {
   margin-bottom: 10px;
 }
@@ -131,13 +137,5 @@ body {
   background-color: transparent !important;
 }
 
-
-.video {
-  width: 720px;
-}
-
-.video h3 {
-  margin-top: 0px;
-}
 
 

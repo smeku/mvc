@@ -1,4 +1,3 @@
 <?php
 
-define('URL', '/TeFilmy');
-
+define('URL', 'http://mvc.dev');

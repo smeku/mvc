@@ -11,6 +11,7 @@ class Kontakt extends Controller{
     function index() {
         
           $this->view->menuActiv = 'kontakt';
+          $this->view->header = 'Kontakt';
           $this->view->render('kontakt/index');
     }
     

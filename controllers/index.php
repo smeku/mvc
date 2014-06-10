@@ -9,6 +9,7 @@ class Index extends Controller {
     
     function index() {
         
+        
         $this->view->menuActiv = 'index';
         $this->view->render('index/index');       
         
